@@ -8,7 +8,7 @@ I enjoy breaking applications in controlled environments, understanding how vuln
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 🎓 B.Tech in Computer Science Engineering **(2024–2028)**
 * 🏫 Shri Ramswaroop Memorial University, Lucknow
@@ -151,11 +151,11 @@ Shri Ramswaroop Memorial University, Lucknow
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/vaibhav-kumar-yadav-7770a232">
+<a href="https://www.linkedin.com/in/vaibhav-kumar-yadav-7770a2322">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/vaibhav-yadav-cyber">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -192,8 +192,6 @@ I'm continuously building my cybersecurity knowledge through hands-on labs, CTFs
 ### 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 

@@ -17,7 +17,7 @@ I enjoy breaking applications in controlled environments, understanding how vuln
 * 🧪 Hands-on experience with **PortSwigger Web Security Academy & DVWA**
 * 🏴‍☠️ Active in **CTF practice and HackTheBox**
 * 🐍 Building security automation tools with **Python**
-* 🐧 Comfortable working with **Linux & Bash**
+* 🐧 Comfortable working with **Linux 
 * 🔎 Interested in vulnerability research, reconnaissance, and offensive security
 
 ---

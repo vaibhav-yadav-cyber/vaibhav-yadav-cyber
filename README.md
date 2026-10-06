@@ -26,7 +26,7 @@ I enjoy breaking applications in controlled environments, understanding how vuln
 
 ### 🔐 Cybersecurity
 
-`Web Application Penetration Testing` `Vulnerability Assessment` `Manual Exploitation` `Reconnaissance` `Proof-of-Concept Development` 'Api Testing'
+`Web Application Penetration Testing` `Vulnerability Assessment` `Manual Exploitation` `Reconnaissance` `Proof-of-Concept Development` 
 
 ### 🐞 Vulnerabilities
 
